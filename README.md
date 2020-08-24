@@ -28,6 +28,21 @@ Nivaran has the potential to be practically implemented and be scaled up to meet
 5)	Flexible and adaptable to change in the future if required as per government guidelines.
 
 
+
+
+
+
+
+
+                                                                           OUR TEAM     
+
+1)TAMANNA SINGH                                                                         
+2)YAJAT KAPUR  
+3)RISHABH JAIN 
+4)KANAL CHANDNA
+5)MAYANK GOEL
+
+
                                                                  
 								              IMPACT 
 Our Idea is a revolutionary idea unlike any other that already exists. It is the need of the hour as such a system needs to be in place as soon as the vaccine comes out in the market so as avoid a chaotic situation and felicitate a quick distribution of the much-needed COVID-19 vaccine. The consequences would be severe if such an organized system is not in place in conjunction with the release of the COVID-19 vaccine and could result in an increased number of COVID-19 cases, malpractices, etc.
