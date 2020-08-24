@@ -35,7 +35,7 @@ It is a very urgent issue to be addressed as soon as the vaccines will be availa
 
 
 
-                                                              OUR TEAM     
+                                                                              OUR TEAM     
 
 1)TAMANNA SINGH                                                                         
 2)YAJAT KAPUR  
