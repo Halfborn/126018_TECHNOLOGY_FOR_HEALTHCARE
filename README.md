@@ -15,10 +15,11 @@ We are proposing a radically new solution to overcome this problem of distributi
 3) The app will then verify the credentials and will send an OTP based on the phone number linked with the Aadhar card.
 4)After this, the people will be sorted based on their age, comorbidity, location as well as income level to select the people who need to be vaccinated on priority. This priority will be based on the algorithm made.
 5) Based on this each person will be sent a QR code along with the date, time, and nearest center. The person will have to get his QR code scanned at the center to avail of vaccination. 
-6) After vaccination, the person will receive a code which when entered in the app will generate a certificate that can be used for easy inter territory travel.									 
-									KEY FEATURES  
-			
-			                                                  
+6) After vaccination, the person will receive a code which when entered in the app will generate a certificate that can be used for easy inter territory travel.
+ 
+ 
+ 
+					                                  KEY FEATURES 
 Nivaran has the potential to be practically implemented and be scaled up to meet the requirement of the entire nation thus efficiently be used for ultimate “nivarana” from the pandemic. It has the following key features:
 1)	User-friendly app in multiple regional languages.
 2)	An organized platform for authorities to implement the process of vaccination against COVID-19.
