@@ -35,13 +35,11 @@ It is a very urgent issue to be addressed as soon as the vaccines will be availa
 
 
 
-                                                                              OUR TEAM     
+                                                                            OUR TEAM     
 
 1)TAMANNA SINGH                                                                         
 2)YAJAT KAPUR  
-3)RISHABH JAIN
-
+3)RISHABH JAIN 
 4)KANAL CHANDNA
-
 5)MAYANK GOEL
 
